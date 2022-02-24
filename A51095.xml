@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Modest inquiry into the carriage of some of the dissenting bishops with reflections upon the late B. of E. letter, compared with their own vindication.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51095</idno>
+            <idno type="STC">Wing M2366</idno>
+            <idno type="STC">ESTC R1130</idno>
+            <idno type="EEBO-CITATION">13659615</idno>
+            <idno type="OCLC">ocm 13659615</idno>
+            <idno type="VID">101066</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51095)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101066)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 795:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Modest inquiry into the carriage of some of the dissenting bishops with reflections upon the late B. of E. letter, compared with their own vindication.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.K.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>B. of E. is the Bishop of Ely, i.e. Francis Turner.</note>
+                  <note>"Licensed according to order."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turner, Francis, 1638?-1700.</term>
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:101066:1" rendition="simple:additions"/>
+            <head>A Modeſt Inquiry Into the Carriage of Some of the Diſſenting Biſhops; With Reflections upon the late B. of E. LETTER, Compared with their own Vindication.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>We read in the Sacred Writings, That the Children of <hi>Iſrael,</hi> when in any Extraor<g ref="char:EOLhyphen"/>dinary Danger or Trouble ſeemed to be mightily concerned, under it, and to make ſtrong Reſolutions againſt thoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that had procured it, to cry earneſtly to God for <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>trance therefrom, and withal to uſe all Lawful <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in order to their Recovery from it. But no ſoon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Storm over, but they forgot what God had <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for them, and returned with the Dog to his Vo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>. This was the Temper of the Generality of the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le of <hi>Iſrael:</hi> And 'twere to be wiſht that the ſame <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Spirit were not too viſible in ſome of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt Character of our Church-Guides, who no leſs <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that People have forgot the wonderful Deliver<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God has wrought for us, and too daringly tempt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and turn back in their Hearts to <hi>Egypt.</hi> It is not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> years ago that ſome at leaſt of theſe very perſons <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed to ſtand up mightily to ſtem the Flood of Po<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich then (had not God in his Mercy prevent<g ref="char:EOLhyphen"/>ed it) had undoubtedly over-flown our Land; ſo as they would not give their Concurrence to any thing that might in the leaſt weaken the Proteſtant Intereſt, and therefore rather than they would have any hand in reading the late K. <hi>James</hi>'s Declaration, in order to have the Penal Laws and Teſt Repealed (which yet might have been done in a Parliamentary way without Sin, and ſhews that they themſelves would deny O<g ref="char:EOLhyphen"/>bedience to the Civil Power in ſome things not for<g ref="char:EOLhyphen"/>bidden in the Word of God, when ſo doing was found to be for the general good, as well as thoſe the; have expoſed for ſo doing as the worſt of men) they choſe to undergo what Penalties the Law could inflict upon them for their Refuſal. And 'tis not unknown how much this Action has been magnified, not only by themſelves, but by their great Admirers, who have fre<g ref="char:EOLhyphen"/>quently extolled it even above what was fitting, when ſome perſons Zealouſly affected towards Their Preſent Majeſties ſeemed to ſhew their diſpleaſure at their re<g ref="char:EOLhyphen"/>fuſing the Oaths, by telling them, <hi>Had it not been for
+<pb n="2" facs="tcp:101066:2"/>them what had become of us and our Religion ere now?</hi> But how thoſe Reverend perſons can reconcile that Action with their Carriage and Deportment ſince is juſtly the Admiration of any thinking Man. The Proteſtant Religion we all know was in no ſmall danger <hi>then,</hi> and they did run well, who has hindred them <hi>ſince?</hi> But ſhould they carry their deſigns now ſo as to bring their Friend Mr. <hi>Redding</hi> (as the Canting Letter terms the late King) back, and reſettle him, I would gladly know whether the <hi>Proteſtant Religion</hi> would not be in infinite<g ref="char:EOLhyphen"/>ly <hi>worſe</hi> Circumſtances than it could poſſibly have been in <hi>then,</hi> even tho the Penal Laws &amp; Teſt had been actu<g ref="char:EOLhyphen"/>ally Repealed. For then we had not made our <hi>Addreſs to the Proteſtants abroad,</hi> which conſidering our Innate ſtrength at home, and the Aſſarance we had of their Aſſiſtance for the common Safety was a terrour to our Enemies. But now we have already had help from them, and it has pleaſed God to bleſs it ſo far that our Liberties were in no Reign ſo well ſetled as now they are; and had it not been for thoſe Reverend per<g ref="char:EOLhyphen"/>ſons and the Party influenced by them we had ere now been the Terrour of our Enemies. But ſhould the late King be reſtored, no rational Security could be pro<g ref="char:EOLhyphen"/>poſed for us. For that turn of Affairs here, would un<g ref="char:EOLhyphen"/>doubtedly be of Fatal Influence on all the Proteſtant Princes and States abroad, ſo that we could not <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pect the leaſt Aſſiſtance from them, whom the pe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>diouſ<g ref="char:EOLhyphen"/>neſs of ſome of us would deſtroy with our ſelves; the Countrey here is mightily Empoveriſhed by reaſon of the prolonging of the War; and 'tis not to be ſuppo<g ref="char:EOLhyphen"/>ſed but that the Flower of our Nobility and Gentry, with the beſt of our Commons will Sacrifice their Lives for the Religion and Liberty of their Countrey, rather than come again under the Clutches of one who has ſhewed himſelf ſo implicitely abandoned to the Council of the Jeſuits: And if it ſhould pleaſe God to puniſh us ſo far for our Sins as to permit him to prevail over us, 'twould be no hard matter for him with his French and Iriſh Souldiers poured in upon us to guide the reſt as he pleaſed. All which plainly ſhews what great Friends to the Proteſtant Religion, ſome at leaſt, of thoſe Holy Confeſſors, thoſe Golden Candleſticks have been, who pretended to ſtand up for it, when it was nothing near in ſo great Danger, and yet would betray it in its greateſt Exigency, and that upon ſuch ſlender Pretences that a Child would even be aſhamed to mention.</p>
+            <p>How mightily the Engliſh World has wondred after thoſe Diſſenting Gentlemen needs not be inſiſted up<g ref="char:EOLhyphen"/>on, nor how ſtrong a Party of eaſie ſhort-ſighted men have been brought over by their means, to King <hi>James</hi>'s ſide, notwithſtanding their fair Pretence in their own Vindication, <hi>That they would always by Gods Grace make it their daily practice</hi> to ſtudy to be quiet, <hi>to bear their Croſs patiently, and to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ek the good of their Native Countrey.</hi>
+            </p>
+            <p>It has been the Admiration of not a few, that the Publiſher of the <hi>Modeſt Enquiry,</hi> was ſo ſeverely threat<g ref="char:EOLhyphen"/>ned, ſince it was done from ſo great a Zeal for their Majeſties Government, and to awaken people from their ſluggiſh Security in a time of ſo great a danger a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that was, meerly becauſe they ſeemed to expoſe in their own Colours thoſe diſſenting Prelates, who eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their own Vindication (however it was by ſome of their Admirers ready to be entertained with, <hi>T<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Voice of a God and not of a Man</hi>) make ſo ſuperficial a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Defence, that in the Judgment of all Impartial Rea<g ref="char:EOLhyphen"/>ders rather bewrays their Guilt than any way evinces their Innocence. As if Romiſh-like the Proteſtant Religion and Government ſhould be Sacrificed to the Caprice of a few ſullen Prelates. But now it has pleaſ<g ref="char:EOLhyphen"/>ed God of his Infinite Mercy to give us a plain Evi<g ref="char:EOLhyphen"/>dence of the Integrity of at leaſt ſome of them; one of whom (as is reported by his Admirers) is now go<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> over to <hi>France to prevent that Arbitrary E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer</hi> (as he with the reſt have it in the common Vindication) <hi>from coming upon us and prevailing ov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r us;</hi> or rather <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>prevent its too late coming among us,</hi> (as his Lette<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> imports.) A few Remarks upon which comparing it with their Vindication, I ſhall here ſubjoyn.</p>
+            <p>But before I begin it may not be amiſs to ſay ſome what as to the Reality of the matter of Fact, <hi>viz.</hi> that 'tis not a Fiction on purpoſe to aſperſe ſo holy a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mans Name; and this is plain enough if we conſider that theſe Two Letters were ſeized among the re<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that were ſent over to <hi>France</hi> by my Lord <hi>Preſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the reſt, and known to be his by undoubted Evidence. But beſides, it is further confirmed by this, that 'tis <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be ſuppoſed that any thing leſs than a Conſcious<g ref="char:EOLhyphen"/>neſs of Guilt could Induce this Reverend Perſon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> withdraw himſelf at this Juncture, even tho' he might be ſenſible enough that the Government is ſo m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that tho' his crime was of a Crimſon dye, yet no fur<g ref="char:EOLunhyphen"/>ther rigour would have been uſed againſt him, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to keep him from betraying that Church which he pretends ſo great a Zeal for, (but in Truth, it ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> never deſigned to ſerve her, but his own Intereſt a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Ambition.) And whether he may not be reckon<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> amongſt the Hireling Shepherds, who when he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> brought ſome of his Votaries as near deſtruction <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be, forſakes them, I leave to the World to ju<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> It might have been thought that one <hi>that would <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> renounce his Hopes of Heaven (abſit blaſphemia!) is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would ſwerve in the leaſt from K.</hi> James'<hi>s Intereſt,</hi> w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> not have thus betrayed it by a cowardly flight, eſr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ally when ſtanding to it, and laying down his Life <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ſo good a Cauſe</hi> would have been of ſuch mighty Inf<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ence on all his Votaries, who now when their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> leader has thus faintly turned back, can do no o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> than follow his Example. But I will now proceed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Letter; which is penned in the ſame fulſom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that dropt from the Mouths of thoſe that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preaching people into that Slavery that was to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Popery.</p>
+            <p>
+               <hi>Tho' the Bearer will do us the Juſtice</hi> [Obſerve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quietly ſoever the Holy Man proteſts before Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> live, in his Vindication, yet he would not be ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> repreſented to his moſt Gracious Soveraign <hi>Ja<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:101066:2"/>juſt] to aſſure you that we are as full of Duly,</hi> &amp;c. <hi>as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſelf could wiſh.</hi> [This ſpeaks the Gentlemans meaning plainly enough; Now look to your ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves you that ſpoke ſo much in the favours of the Diſſent<g ref="char:EOLhyphen"/>ing — ſticks, that tho' they had ſome inſupera<g ref="char:EOLhyphen"/>ble Scruples upon their Conſciences, which hindred them from appearing Zealous for this Government, yet they were ſo devoted to the Proteſtant Religion, that they nor any one of them would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever act ſo much to its prejudice as to carry on Plots to introduce the late King.] And his next words do more fully explain his meaning; <hi>Yet this Gentleman has under<g ref="char:EOLhyphen"/>taken you will forgive the Preſumption</hi> [wards expreſſing the deepeſt ſenſe of Devotion, that they muſt be as ſenſleſs as Stones that do not ſee what a Zeal for the cauſe theſe words import] <hi>If I give my ſelf the honour to give you this freſh aſſurance in a few words which owe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by cur,</hi> Actions: [The old flattering Language of Eighty three, Eighty four, Eighty five. And we ſee by the word <hi>Actions,</hi> how little difference there is be<g ref="char:EOLhyphen"/>tween the ſolemn Proteſtations before Almighty God made by them in their Vindication, and that of the Order of the Name Jeſus. But 'tis true ſince their de<g ref="char:EOLhyphen"/>ſigns now jump ſo together, 'tis no wonder if the meaſures to accompliſh them be much the ſame. And they are mightily byaſſed or ſhallow-pated that are not ſenſible, that what the Jeſuits are in the Romiſh, that a parcel of High-flown Tantivy-men are in the Proteſtant Church. 'Tis not unknown to the World how this Party has inveighed againſt Diſſenters as the worſt of men (ſo that their Admirers to this very day reckon them worſe than Roman Catholicks) and Moderate Church-men, upon a Preſence of their be<g ref="char:EOLhyphen"/>ing of ſo Seditious Principles, who have both notwith<g ref="char:EOLhyphen"/>ſtanding, not only here but in the Neighbouring Kingdom, ſhewed as much Zeal for Their Preſent Ma<g ref="char:EOLhyphen"/>jeſties Government as ever Subjects did. And it may deſerve our Conſideration, whether Perſons be more deſirable in a Kingdom; thoſe whoſe Loyaly is ſhewed only to Princes, who in modeſt ſpeaking are Princes neither of Religion nor Honeſty, and who by their Flatteries and Counſels hurry thoſe Princes to com<g ref="char:EOLhyphen"/>mit more Extravagancies than poſſibly their Natures would prompt 'em to; but when Princes of undoubt<g ref="char:EOLhyphen"/>ed Religion and Honeſty come to the Throne, pretend I do not know not what Conſcience againſt it (more like one acted by the Prince of Darkneſs, than the Father of Light:) Or thoſe who tho' they ſeem not to give much countenance to bad Princes, yet follow after <hi>Judgment when returned unto Righteouſneſs,</hi> whom that Kingly Prophet declares to be <hi>right-hearted men.</hi> But how much credit ſoever has been given to that ſort of Men, when out of a malicious deſign calum<g ref="char:EOLhyphen"/>niating their Fellow Subjects, for ought can be ra<g ref="char:EOLhyphen"/>tionally concluded from either of their I Practices men of much more Religion and Integrity than them<g ref="char:EOLhyphen"/>ſelves, I hope they will not gain ſuch ground as they have formerly with men at leaft of any Morals, ſince not only from their carriage in the latter end of the Reign of K. <hi>Charles</hi> II. and the beginning of the late King's, 'tis eaſie to know what they are, but from their demeanour now it will be obvious enough to any to reply to their Calumnies,
+<q>Quis tuler it Gracchos de ſeditione querentes?</q>
+            </p>
+            <p>But left we ſhould think this the Sentiments only o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one Non-Con-Prelate (as if he were uſing <hi>We</hi> By vertue of his Apoſtolical Function) he plainly ſolves the riddle himſelf by telling us; <hi>I ſpeak in the P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Number, becauſe I write my Elder Brothers ſentiments as we<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as my own, and the reſt of my Family.</hi> [What he means by his Eldeſt Brother is obvious enough, and by the reſt of his Family, nothing elſe can be meant bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the reſt of the Diſſenting Tribe, for 'tis eaſily ſuppoſe able that his Domeſtick Family could do but littl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Service to the Cauſe. And if he ſpeaks Truth (as we are bound to believe a Gentleman of his Function) then there's <hi>never a Barrel better Herring.</hi>]</p>
+            <p>He tells us next, <hi>Tho' leſſened in Numb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> [Which ſuppoſe refers to the Two Worthy Prelates, who a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ftood up for the Proteſtant Religion (not in pre<g ref="char:EOLunhyphen"/>tence, but) really; ſo they have perſevered in ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good a Work, by emproving all their Intereſt t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſupport Their Preſent Majeſties, with whom <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt now ſuffer the ſame Fate, and another, wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> had ſuckt in thoſe Principles with his Mothers Mill<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſometimes ſince deceaſt, but whoſe Interceſſions fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the good of the Cauſe, no doubt they expect] <hi>yet <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we are not mightily out in our Accounts</hi> [which we hope they ſhall to their own Confuſion; for the Prover ſays. <hi>They that reckon before their Hoſt, muſt count twic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> We are growing in our Intereſts, that is, in Yours.</hi> [Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> former is too true to be denied, and is too ſad <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Indication what hollow-hearted Proteſtants we hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amongſt us. And by the Letter we plainly ſee wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Confeſſors they are for the Proteſtant Intereſt, King <hi>James</hi>'s Intereſt (which he has plainly de<g ref="char:EOLunhyphen"/>clared to the World was to advance the Romiſh Id<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>latries) and theirs is become one and the ſame.—was indeed the Jealouſie of not a few, that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would never have ſtood it out ſo much as they d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and it ſeems they thought they had done too muc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and therefore reſolved to make amends for the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ture.</p>
+            <p>The Concluſion of this Letter is much the ſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with the reſt of it; and therefore I paſs it.</p>
+            <p>That to Mrs. <hi>Redding</hi> (the late Queen) tho' it much to the ſame purpoſe with the former, yet I ſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> briefly take notice of it.</p>
+            <p>And firſt, <hi>As it is impoſſible for me to expreſs that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>traordinary ſatisfaction it gave me this time twelve mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to receive that Mark of your Favour and Goodneſs u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your own hand:</hi> [This is a plain Indication that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Holy Father is not a Plotter of yeſterday: Other<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 'tis not probable that the late Queen would h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vouchſafed ſuch a ſpecial Favour as to write to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with her own hand.] <hi>So I have lived in ſome pai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:101066:3"/>an Opportunity to write to you my Humble Acknowledg<g ref="char:EOLhyphen"/>ments, and Trueſt Duty:</hi> [It had been much more be<g ref="char:EOLhyphen"/>coming his Coat to have travelled in pain to diſcharge the duty he lay under to his great Maſter, in feeding the Flock committed to his Inſpection, which if he had been ſo faithful in as became a Biſhop, he would have been very indifferent of paying his Duty to the late Queen.] <hi>From which (by the Grace of God) I am no more capable of ſwerving than of</hi> Renouncing <hi>my Hopes of Heaven.</hi> [I thought this Reverend Prelate had been a great Oppoſer of the Impoſſibility of the Elects final Apoſtacy; but the confident Language he expreſſes himſelf by, would induce us to believe that he is turned over to Infallibility. I wiſh his Hopes of Hea<g ref="char:EOLhyphen"/>ven be well grounded: But I am afraid that if they had been ſuch as he pretends, he would never have put them in the balance with his pretended Allegi<g ref="char:EOLhyphen"/>ance to Her.] <hi>I ſay this in behalf of my Elder Bro<g ref="char:EOLhyphen"/>ther — You may entirely depend upon us, not only for a con<g ref="char:EOLhyphen"/>ſtant Adherence to ſo well</hi> choſen a Principle [the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Jure Divinity</hi> of Succeſſion, Non-Reſiſtance, with all its Appurtenances, which has been ſufficiently laſht theſe two years; and this Beaſt has received more Wounds than ever his Apoſt—ſhip will be able to heal] <hi>But for our utmoſt</hi> Activity <hi>to promote your</hi> In<g ref="char:EOLhyphen"/>tereſts, <hi>which are</hi> inſeparably our own. [This with a Witneſs is a Diſcovery of the Candor and Ingenuity (to ſay nothing of his Brethren whom he makes as Guilty as himſelf) of his Solemn Proteſtations (in the Common Vindication) as in the preſence of Almigh<g ref="char:EOLhyphen"/>ty God, that he knew of no Plot againſt the Govern<g ref="char:EOLhyphen"/>ment! What greater Diſſimulation with God Al<g ref="char:EOLhyphen"/>ty could the moſt perfidious Jeſuite have been guilty of, than for him to proteſt there, that he knew of no Plot, when yet he himſelf was promoting K. <hi>James</hi>'s Intereſt with his greateſt activity? For we have no reaſon to believe that he has changed his mind in the leaſt ſince. Nay, their Vindication it ſelf ſhews they have no great affection to their preſent Majeſties; for while they pray for all ſorts of Subjects, they have not a good wiſh to ſpare for Their Majeſties, whom the Apoſtle Ranked firſt, and they themſelves <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> times, and would now, had they a King accordin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their own hearts.</p>
+            <p>He concludes, <hi>Our Young Maſter has all our <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wiſhes [Similes habent ſua labra Lactucas;</hi> a Spur<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Prelate and Prince. How great a Friend is this Gent<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>man to the Succeſſion he ſo much pretends to, wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he would thruſt by the Genuine Iſſue, and bring <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Race no Body knows of what Extract? Since 'tis o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tain that for all the noiſe has been made about <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> proving of his Legitimacy, no Legal Proof could <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> adduced, nor ever will: And whatever Preſumptio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there might be of his Legitimacy, which are fear <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> probable, 'twould be very unfair dealing to pre<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> him to them, whoſe Legitimacy is unqueſtionab<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Had there not been Impoſture in the caſe, 'tis no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be ſuppoſed any thing would have been omitted <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might have contributed to the Legal proof of it N<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> believe there are ſome perſons can juſtifie that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prelate has ſometimes been of another Opinion <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any Body rather than Their Preſent Majeſties ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Holy Prelates <hi>Young Maſter:</hi> And good rea<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> why: for His Majeſty ſhall never be forgiven his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ving the Royal Aſſent to the Act for <hi>ſuſpending <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Laws againſt Proteſtant Diſſenters:</hi> Which K. <hi>Charles</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Bleſſed Memory, a Man according to God's o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heart would have been very loth to have done. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no wonder then that they can be no Well wiſh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a Government that takes their ſting from them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly gains more Friends,</hi> and We get ground <hi>of hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>verſaries.</hi> [How confident ſoever he is of the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of his Party, yet bleſſed be God we have odds en<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> nor are we diſſatisfied at it, ſince thereby we <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only loſt thoſe men, whoſe being for any <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would make a Man of any Integrity to ſuſpect <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gentlemen, for the generality of them, that have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> little either Religion or Morality, as the <hi>Two L<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Horſes,</hi> and take away thoſe two ſorts of Men <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of them commonly called K—and F—the Phi<g ref="char:EOLhyphen"/>loſopher might Light a Candle to find another M<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and loſe his labour.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. K.</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
